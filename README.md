@@ -4,7 +4,7 @@ Para criar um projeto usando Domain-Driven Design com Spring Boot em Java, podem
 
 Passo 1: Definir o contexto do negócio e as entidades do domínio
 
-O primeiro passo é definir o contexto do negócio e as entidades do domínio. Por exemplo, vamos criar um projeto para gerenciar uma loja de roupas. Algumas entidades que podem estar presentes em nosso domínio são: Produto, Categoria, Pedido, Cliente
+O primeiro passo é definir o contexto do negócio e as entidades do domínio. Por exemplo, vamos criar um projeto para gerenciar uma loja de roupas. Algumas entidades que podem estar presentes em nosso domínio são: Produto,  Pedido e Cliente.
 
 Passo 2: Definir as regras de negócio
 
